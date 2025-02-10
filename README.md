@@ -31,7 +31,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/nageCasillas/gradient-boost.git
-cd gradient-boosting-project
+cd gradient-boost
 ```
 
 Install the required packages:
